@@ -22,4 +22,4 @@ def get_db_connection():
         print(f"the error '{e}' occured")
         return None
 
-conn = get_db_connection()
+# conn = get_db_connection()
